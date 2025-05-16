@@ -18,3 +18,11 @@ li{
     padding: 8px;
     margin-bottom: 20px;
 }
+
+img {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 200px;
+    height: auto;
+}
