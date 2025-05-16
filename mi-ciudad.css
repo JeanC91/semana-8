@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(214, 23, 198);
+    margin-left: 300px;
+}
+ul{
+    position: absolute;
+    left: 0%;
+    list-style-type: none;
+    font-size: 30px;
+    
+}
+i{
+    font-size: 30px;
+}
+
+li{
+    background-color: rgb(255, 255, 255);
+    padding: 8px;
+    margin-bottom: 20px;
+}
