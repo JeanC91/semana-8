@@ -18,3 +18,10 @@ li{
     padding: 8px;
     margin-bottom: 20px;
 }
+img {
+    position: absolute;  /* o fixed si quieres que no se mueva al hacer scroll */
+    top: 20px;
+    right: 20px;
+    width: 500px;
+    height: auto;
+}

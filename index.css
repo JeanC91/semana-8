@@ -20,9 +20,9 @@ li{
 }
 
 img {
-    position: fixed;
-    top: 20px;
+    position: absolute;  /* o fixed si quieres que no se mueva al hacer scroll */
+    top: 5px;
     right: 20px;
-    width: 200px;
+    width: 300px;
     height: auto;
 }
