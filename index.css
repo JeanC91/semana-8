@@ -1,6 +1,7 @@
 body {
-    background-color: rgb(9, 153, 141);
+    background-image: url(img/12333.jpg);
     margin-left: 300px;
+    color: white;
 }
 ul{
     position: absolute;
@@ -20,9 +21,20 @@ li{
 }
 
 img {
-    position: absolute;  /* o fixed si quieres que no se mueva al hacer scroll */
+    position: absolute;
     top: 5px;
     right: 20px;
-    width: 300px;
+    width: 500px;
     height: auto;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    color: yellow;
+}
+
+h4 {
+    font-size: 20px;
+    color:  red;
 }

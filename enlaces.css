@@ -1,6 +1,10 @@
 body {
-    background-color: rgb(4, 179, 179);
+    background-image: url(img/123123.jpg);
     margin-left: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 100vh;
 }
 ul{
     position: absolute;
@@ -18,3 +22,20 @@ li{
     padding: 8px;
     margin-bottom: 20px;
 }
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+img {
+    position: absolute;
+    top: 350px;
+    right: 500px;
+    width: 1000px;
+
+    }

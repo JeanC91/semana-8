@@ -1,6 +1,11 @@
 body {
-    background-color: rgb(214, 23, 198);
-    margin-left: 300px;
+    background-image: url(img/a1a1.jpg);
+     margin-left: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 100vh;
+    color: white;
 }
 ul{
     position: absolute;
@@ -21,8 +26,18 @@ li{
 
 img {
     position: absolute;
-    top: 20px;
+    top: 200px;
     right: 20px;
-    width: 500px;
+    width: 600px;
     height: auto;
+}
+h3 {
+    font-size: 30px;
+    text-align: center;
+    color: yellow;
+}
+
+h4 {
+    font-size: 20px;
+    color:  red;
 }
